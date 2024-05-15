@@ -20,6 +20,7 @@
 		2C80838F2BDD46E100D0381A /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C80838E2BDD46E100D0381A /* MeetingView.swift */; };
 		2C8083912BDD46E200D0381A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C8083902BDD46E200D0381A /* Assets.xcassets */; };
 		2C8083942BDD46E200D0381A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C8083932BDD46E200D0381A /* Preview Assets.xcassets */; };
+		2C86B24C2BF5052B006DCEE6 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C86B24B2BF5052B006DCEE6 /* HistoryView.swift */; };
 		2CA2039C2BEB9BE800BDDFB7 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA2039B2BEB9BE800BDDFB7 /* ScrumTimer.swift */; };
 		2CA2039E2BEBA4DB00BDDFB7 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA2039D2BEBA4DB00BDDFB7 /* MeetingFooterView.swift */; };
 		2CA203A02BEBBBBE00BDDFB7 /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CA2039F2BEBBBBE00BDDFB7 /* AVPlayer+Ding.swift */; };
@@ -51,6 +52,7 @@
 		2C80838E2BDD46E100D0381A /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
 		2C8083902BDD46E200D0381A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C8083932BDD46E200D0381A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2C86B24B2BF5052B006DCEE6 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
 		2CA2039B2BEB9BE800BDDFB7 /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		2CA2039D2BEBA4DB00BDDFB7 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		2CA2039F2BEBBBBE00BDDFB7 /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				2CD4EE242BF24F340005E447 /* ErrorView.swift */,
 				2CD4EE262BF26D260005E447 /* MeetingTimerView.swift */,
 				2CD4EE282BF2706F0005E447 /* SpeakerArc.swift */,
+				2C86B24B2BF5052B006DCEE6 /* HistoryView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 				2CD4EE292BF2706F0005E447 /* SpeakerArc.swift in Sources */,
 				2CD4EE252BF24F340005E447 /* ErrorView.swift in Sources */,
 				2CA2039C2BEB9BE800BDDFB7 /* ScrumTimer.swift in Sources */,
+				2C86B24C2BF5052B006DCEE6 /* HistoryView.swift in Sources */,
 				2CD4EE272BF26D260005E447 /* MeetingTimerView.swift in Sources */,
 				2CEC41102BE3A5000069EEA3 /* DailyScrum.swift in Sources */,
 				2CD4EE212BF22DA70005E447 /* ScrumStore.swift in Sources */,
